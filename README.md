@@ -314,7 +314,6 @@ La structure de B-Arbre permet d'extraire facilement un intervalle de données (
 Ainsi, notre modèle entité-relation nous a permis d'obtenir un schéma relationnel directement normalisé en FNBC. Suite à notre pré-soutenance, nous avons pris en compte les remarques de notre enseignant pour réajuster notre projet puis nous somme passé à la phase de développement. Concernant l'import des données, le script `Python` prévu à cet effet a permis de reformater les données sources et de générés certaines données nécessaires. Nous avons ensuite mis en place les contraintes de notre base de données SQL via des contraintes de type 'check', et les nombreux triggers. Enfin, les différents indexes permettent d'optimiser les réquêtes les plus fréquentes.
 
 
-
 # Annexe : Instructions de démarrage  
 
 Se connecter une nouvelle base de donnée pgsql
