@@ -1,13 +1,12 @@
-# Bases de données des décisions COVID-19  
+# Bases de données & Décisions COVID-19  
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />  
   
-*Projet réalisé en binôme dans le cadre du cours "Bases de données avancées"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
 
 
 # Introduction
 
-Notre projet, que l'on pourrait intituler « Base de données des décisions Covid », cherche à modéliser les mesures prises, par les différents pays, pour faire face à l'épidémie de COVID-19. Nous voulons y intégrer des données assez riches permettant d'établir des liens entre les mesures prises, les éventuelles causes de ces mesures, et leurs conséquences. Les décisions étant majoritairement prises au niveau étatique, nous allons représenter nos données à l'échelle internationale. Par conséquent, les données locales ou régionales ne seront pas présentes.
+Notre projet, que l'on pourrait intituler « Base de données & Décisions Covid-19 », cherche à modéliser les mesures prises, par les différents pays, pour faire face à l'épidémie de COVID-19. Nous voulons y intégrer des données assez riches permettant d'établir des liens entre les mesures prises, les éventuelles causes de ces mesures, et leurs conséquences. Les décisions étant majoritairement prises au niveau étatique, nous allons représenter nos données à l'échelle internationale. Par conséquent, les données locales ou régionales ne seront pas présentes.
 
 Afin de réaliser ce projet, nous allons nous focaliser sur les données suivantes :  
 
